@@ -7,5 +7,6 @@ public class Test {
         System.out.println("33333");
         System.out.println("dev");
         System.out.println("hotFix");
+        System.out.println("github");
     }
 }
