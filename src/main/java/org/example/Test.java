@@ -8,5 +8,6 @@ public class Test {
         System.out.println("dev");
         System.out.println("hotFix");
         System.out.println("github");
+        System.out.println("idea");
     }
 }
